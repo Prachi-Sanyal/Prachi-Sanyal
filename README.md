@@ -15,6 +15,7 @@ I enjoy working with data, building projects, and continuously improving my tech
 * JavaScript
 * MERN Stack
 * Git & GitHub
+* Java
 
 ## 🌱 Currently Learning
 
